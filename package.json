@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-mariadb-admin",
+  "version": "0.1.0",
+  "description": "Node.js MariaDB Admin",
+  "homepage": "https://github.com/epexa/nodejs-mariadb-admin",
+  "main": "src/app.js",
+  "author": "epexa",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "node-mysql-admin": "^0.1.8"
+  }
+}
